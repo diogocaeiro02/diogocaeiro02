@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+- 🔭 I’m currently working on a Social Network using the Blockchain Mechanism.
+- 🌱 I’m currently at last year of Computer Science Degree.
 
 <a href="https://github.com/diogocaeiro02/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=diogocaeiro02&theme=radical" />
