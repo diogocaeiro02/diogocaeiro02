@@ -31,7 +31,7 @@
 - 🎓 Degree in Computer Science
 - 🔐 Built a blockchain-based project ([BlockPro](#)) for my dissertation
 - 🎬 Video editing is also a passion — Premiere Pro user here
-- 🌍 Based in Portugal (and sometimes the UK), but working globally
+- 🌍 From Lisbon, Portugal but currently living in the UK
 
 ---
 
