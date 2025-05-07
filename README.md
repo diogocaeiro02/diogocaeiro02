@@ -1,48 +1,58 @@
-### Hi there, I'm Diogo 👋
+<h1 align="center">👋 Hey, I'm Diogo Caeiro</h1>
 
-<!--
-**diogocaeiro02/diogocaeiro02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-- 🔭 I’m currently working on a Social Network using the Blockchain Mechanism.
-- 🌱 I’m currently at last year of Computer Science Degree.
-
-<a href="https://github.com/diogocaeiro02/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=diogocaeiro02&theme=radical" />
-</a>
-<a href="https://github.com/diogocaeiro02/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=diogocaeiro02&layout=compact&langs_count=8&card_width=320&theme=radical" />
-</a>
-
-
-<h1 align="center">Hi 👋, I'm Diogo</h1>
-<h3 align="center">A passionate frontend developer from Portugal</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=diogocaeiro02&label=Profile%20views&color=0e75b6&style=flat" alt="diogocaeiro02" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=diogocaeiro02" alt="diogocaeiro02" /></a> </p>
-
-- 👨‍💻 All of my projects are available at [diogocaeiro.pt](diogocaeiro.pt)
-
-- 📫 How to reach me **diogo.11.caeiro@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  💻 Creative developer with a love for clean interfaces and smooth experiences.<br>
+  🎯 Passionate about turning ideas into functional, beautiful digital products.<br>
+  🚀 From frontend to blockchain — I love learning, building, and improving.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=diogocaeiro02&show_icons=true&locale=en&layout=compact" alt="diogocaeiro02" /></p>
+## 🧰 Tech Stack
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=diogocaeiro02&show_icons=true&locale=en" alt="diogocaeiro02" /></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white"/>
+</p>
+
+---
+
+## 🙋 About Me
+
+- 🎓 Degree in Computer Science
+- 🔐 Built a blockchain-based project ([BlockPro](#)) for my dissertation
+- 🎬 Video editing is also a passion — Premiere Pro user here
+- 🌍 Based in Portugal (and sometimes the UK), but working globally
+
+---
+
+## 📌 Featured Projects
+
+🔗 [**Portfolio**](https://diogocaeiro.pt) — My personal, responsive developer portfolio  
+🔗 [**Degustação Alentejana**](https://degustacaoalentejana.pt)) — Rustic catering brand with a modern web identity  
+🔗 [**Rent Storage**](https://rentstorage.pt) — Storage unit business with 24/7 access and a clean UI  
+
+---
+
+## 📫 Let's Connect
+
+- 🌐 Website: [diogocaeiro.pt](https://diogocaeiro.pt)
+- 📩 Email: diogo.11.caeiro@gmail.com
+- 💼 LinkedIn: [Diogo Caeiro](https://www.linkedin.com/in/diogo-gm-caeiro)
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=diogocaeiro02&style=flat-square&color=blue" alt="visitors"/>
+</p>
+
+
